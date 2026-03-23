@@ -50,11 +50,11 @@ public class test {
 
         byte test2=10;
         Complex result2=new Complex(test2);
-        System.out.println("byte: "+result);
+        System.out.println("byte: "+result2);
 
         float test3=10.0f;
         Complex result3=new Complex(test3);
-        System.out.println("float: "+result);
+        System.out.println("float: "+result3);
 
     }
 
